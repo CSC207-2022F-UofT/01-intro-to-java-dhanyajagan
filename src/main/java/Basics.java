@@ -43,7 +43,6 @@ public class Basics {
         System.out.println("Hello World!");
 
 
-
         /* 4. In Python, we could declare variables using a simple assignment
          *    statement. For example:
          *        x = 10
@@ -161,13 +160,5 @@ public class Basics {
     }
 
 
-    /*
-     * TODO (Task 6): Submit the changes you made on GitHub!
-     *                When you submit it, go to the 'Actions' tab. You should
-     *                be able to see this exercise being autograded!
-     *
-     *                You can click on the ongoing action to see more details.
-     *                If the tests don't pass, look at the results and revise
-     *                accordingly.
-     */
+
 }
